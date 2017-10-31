@@ -10,3 +10,10 @@ MP3文件格式解析
 http://www.cnblogs.com/musicfans/archive/2012/06/17/2819312.html
 java 解析MP3文件
 http://blog.csdn.net/xiangyong2008/article/details/5299408
+用JAVA编写MP3解码器——解析文件信息
+http://mygia.lofter.com/post/1cadfd41_675ef69
+jmp123 播放器下载
+http://jmp123.sourceforge.net/download.html
+用Java编写解码器系列博客
+http://lfp001.iteye.com/category/69690
+
