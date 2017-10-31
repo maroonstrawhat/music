@@ -1,4 +1,4 @@
-C语言解析WAV音频文件：
+C语言解析WAV音频文件： 
 https://zhuanlan.zhihu.com/p/27338283
 声音、音频采样率、采样精度等常识概念
 http://blog.csdn.net/eric88/article/details/17098603
