@@ -4,7 +4,7 @@ gcc编译c文件的方式，之后如何运行?
 #开全部优化：
     gcc -O3 -o hello hello.c
 #带debug信息，调试的时候才能知道对应代码位置。debug的时候最好别开优化（或者优化级别调得低一些），除非你特别需要那样做：
-	gcc -g -o hello hello.c
+    gcc -g -o hello hello.c
 你可以看O' Reilly出的C++ cookbook那本书，讲了一些工程上的事情，比如怎么用gcc、cl、icc生成可执行文件、静态库、动态库。。。
 
 
