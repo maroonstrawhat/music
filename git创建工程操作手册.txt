@@ -2,7 +2,7 @@ King@King-PC MINGW64 /f/GitRepo/music
 $ pwd
 /f/GitRepo/music
 
-King@King-PC MINGW64 /f/GitRepo/music
+King@King-PC MINGW64 /f/GitRepo/music  
 $ git init
 Initialized empty Git repository in F:/GitRepo/music/.git/
 
